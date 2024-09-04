@@ -1,6 +1,6 @@
 const config = {
   challenge: false, // Set to true if you want to enable password protection.
-  users: 
+  users: 'password'
     // You can add multiple users by doing username: 'password'.
     interstellar: "password",'WASD=n0tMe'
   },
